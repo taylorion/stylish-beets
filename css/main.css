@@ -1,6 +1,7 @@
 h1 {
   font-family: 'PT sans', sans-serif;
-  font-weight: bold;;
+  font-weight: bold;
+  color: #421124;
 }
 
 nav ol {
@@ -15,4 +16,26 @@ a {
 
 html {
   background-color: #c9b5ae;
+}
+
+.quote {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+h2 {
+  color: #421124;
+  font-family: 'PT sans', sans-serif;
+}
+
+nav a {
+  color: #8a0e32;
+}
+
+nav a:hover {
+  color: #421124;
 }
