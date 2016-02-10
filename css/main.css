@@ -1,0 +1,18 @@
+h1 {
+  font-family: 'PT sans', sans-serif;
+  font-weight: bold;;
+}
+
+nav ol {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+html {
+  background-color: #c9b5ae;
+}
