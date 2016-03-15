@@ -1,11 +1,11 @@
 h1 {
-  font-family: 'PT sans', sans-serif;
+  font-family: "PT sans", sans-serif;
   font-weight: bold;
   color: #421124;
 }
 
 nav ol {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   list-style-type: none;
 }
@@ -16,20 +16,23 @@ a {
 
 html {
   background-color: #c9b5ae;
+  font-family: "PT serif", serif;
 }
 
 .quote {
   font-size: 1.5rem;
   font-style: italic;
+  font-family: "PT serif", serif;
 }
 
 .bold {
   font-weight: bold;
+  font-family: "PT serif", serif;
 }
 
 h2 {
   color: #421124;
-  font-family: 'PT sans', sans-serif;
+  font-family: "PT sans", sans-serif;
 }
 
 nav a {
@@ -38,4 +41,17 @@ nav a {
 
 nav a:hover {
   color: #421124;
+}
+
+figcaption {
+  font-family: "PT serif", serif;
+}
+
+p {
+  font-family: "PT serif", serif;
+}
+
+a:hover {
+  color: #8a0e32;
+  text-decoration: none;
 }
